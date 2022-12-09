@@ -1,0 +1,109 @@
+.navbar{
+  background-color:darkmagenta;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 0px;
+}
+.links a{
+  color:greenyellow;
+  text-decoration: none;
+  margin:0px 15px;
+  font-size: 20px;
+}
+.links a:hover{
+  color:bisque;
+}
+.home{
+  background-color:darkmagenta;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.poster img{
+  border-radius:10px;
+}
+.favs{
+  background-color:darkmagenta;
+  text-align:center;
+  color:white;
+  padding: 45px 0px
+
+}
+.favs.h1{
+  font-size: 50px;
+  margin-top: 0px;
+}
+.list{
+  margin: 15px 240px;
+  padding:20px 0px;
+}
+.list h1{
+  font-size: 30px;
+
+}
+.list:hover{
+  background-color: rgba(165, 42, 42, 0.783)
+
+}
+.footer{
+  background-color:burlywood;
+  text-align: center;
+  padding: 25px 0px;
+}
+.footer a{
+  text-decoration:none;
+  color:aliceblue;
+  margin:0px 15px;
+}
+.footer p{
+  color:darkcyan;
+}
+.form input{
+  display: block;
+  margin:25px 10px;
+  width: 300px;
+  align-items: center;
+  padding-left: 10px;
+}
+.form{
+  width:400px;
+  height:400px;
+  background-color: antiquewhite;
+  text-align:left;
+  margin-left: 150px;
+}
+.addfavs{
+  display: flex;
+  padding:300px;
+  background-color: aliceblue;
+}
+#btn{
+  margin-left: 120px;
+  width: 20%;
+  padding:6px;
+  background-color: blue;
+  text-align: center;
+}
+.content{
+  background-color: blueviolet;
+  text-align:left;
+  width:300px;
+  padding:80px;
+  color:white;
+}
+.addfavs {
+  display:flex;
+  padding: 20px;
+  background-color: gainsboro;
+}
+.abt{
+  background-color: black;
+  display:flex;
+  padding:50px;
+}
+.lines{
+   color:aliceblue;
+   padding:50px;
+   margin-left: 200px;
+   margin-top: 110px;
+}
